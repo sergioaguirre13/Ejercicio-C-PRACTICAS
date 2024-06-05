@@ -1,0 +1,14 @@
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\bin\Debug\net8.0\Ejercicio de Herencia.exe
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\bin\Debug\net8.0\Ejercicio de Herencia.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\bin\Debug\net8.0\Ejercicio de Herencia.runtimeconfig.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\bin\Debug\net8.0\Ejercicio de Herencia.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\bin\Debug\net8.0\Ejercicio de Herencia.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\refint\Ejercicio de Herencia.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\Ejercicio de Herencia.genruntimeconfig.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\Ejercicios C# - PRACTICAS\Ejercicio C# - PRACTICAS\obj\Debug\net8.0\ref\Ejercicio de Herencia.dll

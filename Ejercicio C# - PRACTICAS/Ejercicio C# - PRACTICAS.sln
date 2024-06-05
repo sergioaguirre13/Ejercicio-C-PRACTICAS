@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Herencia", "Ejercicio de Herencia.csproj", "{73E98450-9723-43E7-A6A2-72034AD797BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioPolimorfismo", "..\EjercicioPolimorfismo\EjercicioPolimorfismo.csproj", "{22F0C78E-5856-4AC3-99F4-081793C71FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E98450-9723-43E7-A6A2-72034AD797BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E98450-9723-43E7-A6A2-72034AD797BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E98450-9723-43E7-A6A2-72034AD797BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E98450-9723-43E7-A6A2-72034AD797BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F0C78E-5856-4AC3-99F4-081793C71FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F0C78E-5856-4AC3-99F4-081793C71FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F0C78E-5856-4AC3-99F4-081793C71FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F0C78E-5856-4AC3-99F4-081793C71FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {682B0E74-CA24-423C-AB01-65B76276C218}
+	EndGlobalSection
+EndGlobal

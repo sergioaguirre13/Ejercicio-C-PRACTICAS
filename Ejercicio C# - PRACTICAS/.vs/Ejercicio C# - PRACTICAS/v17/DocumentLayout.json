@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\Ejercicios C# - PRACTICAS\\Ejercicio C# - PRACTICAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F0C78E-5856-4AC3-99F4-081793C71FBE}|..\\EjercicioPolimorfismo\\EjercicioPolimorfismo.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios c# - practicas\\ejerciciopolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E98450-9723-43E7-A6A2-72034AD797BD}|Ejercicio de Herencia.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios c# - practicas\\ejercicio c# - practicas\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E98450-9723-43E7-A6A2-72034AD797BD}|Ejercicio de Herencia.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\Ejercicios C# - PRACTICAS\\EjercicioPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EjercicioPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\Ejercicios C# - PRACTICAS\\EjercicioPolimorfismo\\Program.cs",
+              "RelativeToolTip": "..\\EjercicioPolimorfismo\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:18:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\Ejercicios C# - PRACTICAS\\Ejercicio C# - PRACTICAS\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\Ejercicios C# - PRACTICAS\\Ejercicio C# - PRACTICAS\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:17:43.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
