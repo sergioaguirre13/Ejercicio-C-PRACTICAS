@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioPolimorfismo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf6846888863fc8cd25108df3ccad13d32d36bd")]
-[assembly: System.Reflection.AssemblyProductAttribute("EjercicioPolimorfismo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EjercicioPolimorfismo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ejercicio3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
